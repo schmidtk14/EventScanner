@@ -1,0 +1,274 @@
+1stBank Center
+20 Monroe Live
+Abraham Chavez Theatre
+Adams Event Center
+Allen County War Memorial Coliseum
+Altria Theater
+Ameristar Casino Hotel Kansas City
+Angel of the Winds Arena
+Arlene Schnitzer Concert Hall
+Artpark
+Austin City Limits Live at The Moody Theater
+Austin360 Amphitheater
+Bakersfield Fox Theater
+Bankers Life Fieldhouse
+Bass Concert Hall
+Baxter Arena
+Beacon Theatre
+Bell Auditorium
+Bellco Theatre at Colorado Convention Center
+Benedum Center
+Berglund Center
+Bing Crosby Theater
+Blue Cross Arena
+Blue Hills Bank Pavilion
+Bluestem Center for the Arts
+BMO Harris Bradley Center
+Bobcat Stadium - MT
+BOK Center
+Bomb Factory
+Bon Secours Wellness Arena
+Borgata Casino Event Center
+Borgata Casino Music Box
+Boulder Theater
+Brady Theater
+Brick Breeden Fieldhouse
+Bridgestone Arena
+Broadmoor World Arena
+Bryce Jordan Center
+Budweiser Events Center
+Budweiser Gardens
+California Mid-State Fair
+Cambria County War Memorial Arena
+Capitol Theatre Port Chester
+Carnegie Library Music Hall of Homestead
+Casper Events Center
+Center Stage at Pearl River Resorts
+Centrepointe Theatre
+Century Center - South Bend
+Chaifetz Arena
+Chandler Arts Center
+Charlotte Metro Credit Union Amphitheatre
+Cheyenne Civic Center
+CHI Health Center Omaha
+Chicago Theatre
+Chumash Casino Resort
+Citi Field
+Classic Center Theatre
+Coastal Credit Union Music Park at Walnut Creek
+Colorado State Fair
+Constant Convocation Centre
+Crest Theatre - Sacramento
+Crown Center Complex of Cumberland County
+Cullen DataTypes.Performance Hall
+CURE Insurance Arena
+Cuthbert Amphitheater
+Deadwood Mountain Grand
+DECC Symphony Hall
+Delaware State Fair - M&T Bank Grandstand
+Dolby Theatre
+Donald Tucker Center at Leon County Civic Center
+Dow Event Center
+Eccles Theater - Salt Lake City
+Effingham DataTypes.Performance Center
+Embassy Theatre
+Erie County Fair
+Fabulous Fox Theatre - Atlanta
+Fabulous Fox Theatre - St. Louis
+Family Arena
+Fargo Theatre
+Fargodome
+Fenway Park
+Five Flags Center
+FivePoint Amphitheatre
+Florida Strawberry Festival Grounds
+Florida Theatre Jacksonville
+Ford Center at The Star
+Forest Hills Stadium at West Side Tennis Club
+Frank Erwin Center
+Fraze Pavilion
+Giant Center
+Gila River Arena
+Golden Nugget - Lake Charles
+Grand Sierra Theatre
+Green Valley Ranch
+Grove of Anaheim
+Hard Rock Rocksino
+Hollywood Casino Amphitheatre Chicago
+Honda Center
+Hudiburg Chevrolet Center
+Hult Center - Silva Concert Hall
+Idaho Center
+INB Performing Arts Center
+Infinite Energy Arena
+Intrust Bank Arena
+IP Casino Resort and Spa
+Jacobs Pavilion at Nautica
+James Brown Arena at Augusta Richmond Center
+James Knight Center
+Jay Pritzker Pavilion
+John Hunt Auditorium - Tifton Campus Conference Center
+Johnny Mercer Theatre
+JQH Arena
+Kansas Expocentre
+Kauffman Stadium
+Keller Auditorium
+Key West Amphitheater at Truman Waterfront
+KeyArena
+KeyBank Center
+Kitchener Memorial Auditorium Complex
+Knoxville Civic Auditorium
+Lawrence Joel Veterans Memorial Coliseum
+Les Schwab Amphitheater
+Lincoln Theatre DC
+Little Caesars Arena
+Louisville Palace
+Lowell Memorial Auditorium
+Luhrs Center
+Madison Square Garden
+Mahalia Jackson Theater of the Performing Arts
+Majestic Theatre Dallas
+Maryland Hall for the Creative Arts
+Matthew Knight Arena
+Maverik Center
+Mayo Civic Center Presentation Hall
+McMenamins Historic Edgefield Manor
+Memorial Auditorium -TX
+Mercedes-Benz Superdome
+Merrill Auditorium
+Merriweather Post Pavilion
+Meyer Theatre
+Mid America Center
+Minnesota State Fair
+Moda Center
+Modell Performing Arts Center at the Lyric
+Moroccan Lounge
+Morris Performing Arts Center
+Mountain Winery
+Mountain Winery Parking
+Mullins Center
+Northern Quest Casino
+OKC Zoo Amphitheatre
+Old National Events Plaza
+Orpheum Theatre - Madison
+Orpheum Theatre - Memphis
+Orpheum Theatre - Phoenix
+Orpheum Theatre - Vancouver
+Orpheum Theatre - Wichita
+Pacific Coliseum
+Palace Theatre Los Angeles
+Paramount Theatre Denver
+Pavilion at Toyota Music Factory
+Pepsi Center
+PETCO Park
+Pikes Peak Center
+Pinewood Bowl Theater
+Pittsburgh Symphony Heinz Hall
+PlayStation Theater
+PNC Arena
+PNC Park
+Pompano Beach Amphitheatre
+Portland Memorial Coliseum
+PPL Center
+Providence Medical Center Amphitheater
+Quicken Loans Arena
+Radio City Music Hall
+Rams Head On Stage
+Red Rocks Amphitheatre
+Redford Theatre
+Resch Center
+Revention Music Center
+Richmond Coliseum
+Rimrock Auto Arena at Metra Park
+River Spirit Casino
+Rose Music Center at The Heights
+RP Funding Center
+RP Funding Center Jenkins Arena
+Rupp Arena
+Rushmore Plaza
+Ryan Center
+Sacramento Community Center Theater
+Sandia Resort and Casino
+Sands Bethlehem Event Center
+Santa Ana Star Center
+Santa Barbara Bowl
+Santander Arena
+Sarofim Hall - Hobby Center
+Save Mart Center
+Scheels Arena
+Scotiabank Centre
+Sears Centre Arena
+Show Me Center
+Silver Legacy Casino
+SNHU Arena
+Soaring Eagle Casino and Resort
+Spokane Arena
+Sprint Center
+St George Theatre
+Stambaugh Auditorium
+Stanley Performing Arts Center
+Staples Center
+Staples Center Parking
+Starlight Theatre
+State Fair of West Virginia
+State Farm Center
+State Theatre-Playhouse Square Center
+Sunset Station Hotel and Casino
+Symphony Hall Atlanta
+Taco Bell Arena
+Talking Stick Resort Arena
+Target Center
+TaxSlayer Center
+TD Garden
+TD Place Arena
+Templelive
+Templeton-Blackburn Alumni Memorial Auditorium
+Tennessee Theatre
+The Anthem
+The CN Centre
+The Fillmore Philadelphia
+The Neptune Theatre
+The Orleans Showroom
+The Plaza Live Theatre Orlando
+The Theatre at Ace
+The Wiltern
+Times Union Center NY
+Tingley Coliseum
+Tom Benson Hall of Fame Stadium
+Tower Theater Upper Darby
+Toyota Center - TX
+Treasure Island Event Center - Welch
+Tribute Communities Centre
+Tuscaloosa Amphitheater
+Tyson Event Center
+UCCU Center
+UNI Dome
+United Palace Theatre
+US Bank Stadium
+US Cellular Center Asheville
+Usana Amphitheatre
+Utah State Fairgrounds
+Valley View Casino Center
+Van Andel Arena
+Verizon Theatre at Grand Prairie
+Veterans Memorial Coliseum at Arizona State Fair
+Veterans United Home Loans Amphitheater at Virginia Beach
+Vivint Smart Home Arena
+Von Braun Center Arena
+Von Braun Center Concert Hall
+Wagner Noel Performing Arts Center
+Warfield
+Warner Theatre - PA
+Waterfront Plaza
+Weill Hall at Sonoma State University
+Wells Fargo Arena - Des Moines
+Wells Fargo Center-PA
+Wilbur Theatre
+William Saroyan Theatre
+Williamsport Community Arts Center
+Wisconsin State Fair
+Wolstein Center at CSU
+Wrigley Field
+Xcel Energy Center
+XL Center
+Yakima Valley Sundome
